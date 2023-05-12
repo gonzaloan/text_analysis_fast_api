@@ -7,7 +7,7 @@ app = FastAPI()
 
 
 headers = {
-     "Ocp-Apim-Subscription-Key": "API-KEY",
+     "Ocp-Apim-Subscription-Key": "d66b47f4988f45dd8f8cbbdee2b85ae9",
      "Content-Type": "application/json",
      "Accept": "application/json"
 }
